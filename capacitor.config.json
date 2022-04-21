@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Paradise Isles",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
